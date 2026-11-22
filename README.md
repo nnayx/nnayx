@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <h3>Connect with me</h3>
 
-[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](linkxxxxxxxxxxxxxxx)
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kshouz)
+[![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nnayx.github.io/RetroPCPortfolio/)
 [![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nvil/)
 
 </div>
@@ -33,7 +32,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UDF.
 
 Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades.
 
-Meu objetivo é crescer como desenvolvedor, ganhar experiência prática e, futuramente, trabalhar com desenvolvimento web.
+Meu objetivo é crescer como desenvolvedora, ganhar experiência prática e, futuramente, trabalhar com desenvolvimento web.
 
 
 
